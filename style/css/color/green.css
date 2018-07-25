@@ -1,0 +1,172 @@
+.spinner,
+.cbp-popup-loadingBox,
+.tp-loader.spinner0,
+#fancybox-loading div {
+    border-left: 3px solid rgba(156,188,104,.15) !important;
+    border-right: 3px solid rgba(156,188,104,.15) !important;
+    border-bottom: 3px solid rgba(156,188,104,.15) !important;
+    border-top: 3px solid rgba(156,188,104,.8) !important;
+}
+a {
+    color: #D2232A;
+}
+.post-title a:hover {
+    color: #D2232A
+}
+ul.circled li:before {
+    color: #D2232A;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.pagination ul > li > a:hover,
+.pagination ul > li > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > span,
+.open >.dropdown-toggle.btn-default,
+.btn.cbp-filter-item-custom-active {
+    border: 2px solid #D2232A;
+    color: #D2232A !important;
+}
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active,
+.btn-green.active,
+.btn-blue:hover,
+.btn-blue:focus,
+.btn-blue:active,
+.btn-blue.active,
+.btn-red:hover,
+.btn-red:focus,
+.btn-red:active,
+.btn-red.active,
+.btn-yellow:hover,
+.btn-yellow:focus,
+.btn-yellow:active,
+.btn-yellow.active,
+.btn-pink:hover,
+.btn-pink:focus,
+.btn-pink:active,
+.btn-pink.active,
+.btn-gray:hover,
+.btn-gray:focus,
+.btn-gray:active,
+.btn-gray.active,
+.btn-aqua:hover,
+.btn-aqua:focus,
+.btn-aqua:active,
+.btn-aqua.active,
+.btn-orange:hover,
+.btn-orange:focus,
+.btn-orange:active,
+.btn-orange.active {
+    color: #252525 !important;
+}
+.navbar-nav > li > a:focus,
+.nav > li > a:hover,
+.nav > li.current > a {
+    background: none;
+    color: #D2232A !important;
+}
+.services-1 .icon i.icn {
+    color: #D2232A;
+}
+.services-2 i {
+    color: #D2232A;
+}
+.services-2 a:hover {
+    color: #D2232A !important
+}
+.services-3 i {
+    color: #D2232A;
+}
+.progress-list li em {
+    color: #D2232A;
+}
+.progress.plain {
+    border: 1px solid #D2232A;
+}
+.progress.plain .bar {
+    background: #D2232A;
+}
+.tabs-top .tab a:hover,
+.tabs-top .tab.active a {
+    color: #D2232A;
+    border-color: #D2232A;
+}
+.panel-title:hover,
+.panel-active .panel-heading .panel-title {
+    border: 2px solid #D2232A
+}
+.panel-title > a:hover,
+.panel-active a {
+    color: #D2232A
+}
+.tooltip-inner {
+    background-color: #D2232A;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #D2232A
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #D2232A
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #D2232A
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #D2232A
+}
+.hint:after,
+[data-hint]:after {
+    background: #D2232A;
+}
+.hint--top:before {
+    border-top-color: #D2232A
+}
+.hint--bottom:before {
+    border-bottom-color: #D2232A
+}
+.hint--left:before {
+    border-left-color: #D2232A
+}
+.hint--right:before {
+    border-right-color: #D2232A
+}
+.cbp-popup-singlePage .cbp-popup-prev:hover:before,
+.cbp-popup-singlePage .cbp-popup-next:hover:before,
+.cbp-popup-singlePage .cbp-popup-close:hover:before,
+.cbp-popup-singlePageInline .cbp-popup-close:hover:before {
+    border: 2px solid #D2232A !important;
+    color: #D2232A !important;
+}
+.sp-selected-thumbnail {
+    border-bottom: 3px solid #D2232A
+}
+.meta a:hover {
+    color: #D2232A
+}
+.sidebox a:hover {
+    color: #D2232A !important
+}
+ul.layout-switcher li a.active {
+    color: #D2232A;
+    border-color: #D2232A;
+}
+#comments .info h2 a:hover {
+    color: #D2232A
+}
+#comments a.reply-link:hover {
+    color: #D2232A
+}
+.contact-info li a:hover {
+    color: #D2232A
+}
+.pricing .plan h4 span {
+    color: #D2232A
+}
