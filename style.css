@@ -3359,3 +3359,7 @@ body {
     font-size: 18px;
     line-height: 1.6em;
 }
+
+.box .contact-item {
+    text-align: center;
+}
