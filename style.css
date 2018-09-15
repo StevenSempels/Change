@@ -3371,3 +3371,7 @@ body {
 .slogan-subtitle {
     font-size: 20px !important;
 }
+
+a.cbp-caption.cbp-singlePage {
+    pointer-events: none;
+}
