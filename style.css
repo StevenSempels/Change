@@ -3363,3 +3363,11 @@ body {
 .box .contact-item {
     text-align: center;
 }
+
+.slogan {
+ font-size: 25px !important;
+}
+
+.slogan-subtitle {
+    font-size: 20px !important;
+}
