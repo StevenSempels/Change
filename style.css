@@ -3365,13 +3365,52 @@ body {
 }
 
 .slogan {
- font-size: 25px !important;
+ font-size: 45px !important;
 }
 
 .slogan-subtitle {
-    font-size: 16px !important;
+    font-size: 20px !important;
+    font-style: normal !important;
 }
 
 a.cbp-caption.cbp-singlePage {
     pointer-events: none;
+}
+
+.logo-main {
+    width: 500px !important;
+    height: 165px !important;
+}
+
+.intro-web {
+    display: block;
+}
+
+.intro-mobile {
+    display: none;
+}
+
+@media (max-width: 767px) { 
+
+    .slogan {
+        font-size: 25px !important;
+    }   
+    
+    .slogan-subtitle {
+        font-size: 16px !important;
+        font-style: normal;
+    }
+
+    .intro-mobile {
+        display: block;
+    }
+
+    .intro-web {
+        display: none;
+    }
+
+    .logo-main {
+        width: 375px !important;
+        height: 124px !important;
+    }
 }
